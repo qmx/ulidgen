@@ -3,6 +3,9 @@ name = "ulidgen"
 version = "0.1.0"
 authors = ["Doug Campos <qmx@qmx.me>"]
 edition = "2018"
+description = "simple ulid generator"
+license = "MIT"
+homepage = "https://github.com/qmx/ulidgen"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
